@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dstnx"
+authors = [ {name ="jsr-p" ]
+description = "Code for master thesis"
+requires-python = ">=3.10"
+keywords = []
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+]
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "html5lib",
+    "pandas >= 2.0",
+    "pyarrow",
+    "click",
+    "oracledb",
+    "polars",
+    "tabulate",
+    "statsmodels",
+    "formulaic",
+    "seaborn",
+    "pytorch-lightning==2.0.2",
+    "tensorboard",
+    "optuna",
+]
+dynamic = ["version", "readme"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = [ "dstnx*"]
+
+[project.scripts]
+dstnx = "dstnx.__main__:cli"
+
+[tool.setuptools.dynamic]
+version = {attr = "dstnx.__version__"}
+readme = {file = ["README.md"], content-type = "text/markdown"}
+
+
+[tool.ruff]
+line-length = 98

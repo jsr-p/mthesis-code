@@ -1,0 +1,1 @@
+make merge_full_k SUFFIX=_new K=30 COL_SUFFIX=_defaultk FEATURE_SUFFIX=_defaultk30

@@ -1,0 +1,1 @@
+curl https://github.com/rusty1s/pytorch_scatter/raw/master/.coveragerc -o coveragerc

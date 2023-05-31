@@ -1,0 +1,1041 @@
+Kode	Tekst
+	Kap. V: Psykiske lidelser og adfærdsmæssige forstyrrelser [DF00-DF99]
+	Organiske inklusive symptomatiske psykiske lidelser [DF00-DF09]
+DF00	Demens ved Alzheimers sygdom
+DF000	Demens ved Alzheimers sygdom med tidlig debut
+DF0000	Demens ved tidlig Alzheimers sygdom uden andre symptomer
+DF0001	Demens ved tidlig Alzheimers sygdom med paranoide symptomer
+DF0002	Demens ved tidlig Alzheimers sygdom med hallucinationer
+DF0003	Demens ved tidlig Alzheimers sygdom med depressive symptomer
+DF0004	Demens ved tidlig Alzheimers sygdom med blandede symptomer
+DF001	Demens ved Alzheimers sygdom med sen debut
+DF0010	Demens ved sen Alzheimers sygdom uden andre symptomer
+DF0011	Demens ved sen Alzheimers sygdom med paranoide symptomer
+DF0012	Demens ved sen Alzheimers sygdom med hallucinationer
+DF0013	Demens ved sen Alzheimers sygdom med depressive symptomer
+DF0014	Demens ved sen Alzheimers sygdom med blandede symptomer
+DF002	Demens ved Alzheimers sygdom af atypisk eller blandet type
+DF0020	Demens ved atypisk Alzheimers sygdom uden andre symptomer
+DF0021	Demens ved atypisk Alzheimers sygdom med paranoide symptomer
+DF0022	Demens ved atypisk Alzheimers sygdom med hallucinationer
+DF0023	Demens ved atypisk Alzheimers sygdom med depressive symptomer
+DF0024	Demens ved atypisk Alzheimers sygdom med blandede symptomer
+DF009	Demens ved Alzheimers sygdom UNS
+DF0090	Demens uden andre symptomer ved Alzheimers sygdom UNS
+DF0091	Demens med paranoide symptomer ved Alzheimers sygdom UNS
+DF0092	Demens med hallucinationer ved Alzheimers sygdom UNS
+DF0093	Demens med depressive symptomer ved Alzheimers sygdom UNS
+DF0094	Demens med blandede symptomer ved Alzheimers sygdom UNS
+DF01	Vaskulær demens
+DF010	Vaskulær demens med akut indsætten
+DF0100	Vaskulær demens med akut indsætten uden andre symptomer
+DF0101	Vaskulær demens med akut indsætten med paranoide symptomer
+DF0102	Vaskulær demens med akut indsætten med hallucinationer
+DF0103	Vaskulær demens med akut indsætten med depressive symptomer
+DF0104	Vaskulær demens med akut indsætten med blandede symptomer
+DF011	Multiinfarktdemens
+DF0110	Multiinfarktdemens uden andre symptomer
+DF0111	Multiinfarktdemens med paranoide symptomer
+DF0112	Multiinfarktdemens med hallucinationer
+DF0113	Multiinfarktdemens med depressive symptomer
+DF0114	Multiinfarktdemens med blandede symptomer
+DF012	Subkortikal vaskulær demens
+DF0120	Subkortikal vaskulær demens uden andre symptomer
+DF0121	Subkortikal vaskulær demens med paranoide symptomer
+DF0122	Subkortikal vaskulær demens med hallucinationer
+DF0123	Subkortikal vaskulær demens med depressive symptomer
+DF0124	Subkortikal vaskulær demens med blandede symptomer
+DF013	Blandet kortikal og subkortikal vaskulær demens
+DF0130	Blandet kortikal og subkortikal vaskulær demens uden andre symptomer
+DF0131	Blandet kortikal og subkortikal vaskulær demens med paranoide symptomer
+DF0132	Blandet kortikal og subkortikal vaskulær demens med hallucinationer
+DF0133	Blandet kortikal og subkortikal vaskulær demens med depressive symptomer
+DF0134	Blandet kortikal og subkortikal vaskulær demens med blandede symptomer
+DF018	Anden vaskulær demens
+DF0180	Anden vaskulær demens uden andre symptomer
+DF0181	Anden vaskulær demens med paranoide symptomer
+DF0182	Anden vaskulær demens med hallucinationer
+DF0183	Anden vaskulær demens med depressive symptomer
+DF0184	Anden vaskulær demens med blandede symptomer
+DF019	Vaskulær demens UNS
+DF0190	Vaskulær demens uden andre symptomer UNS
+DF0191	Vaskulær demens med paranoide symptomer UNS
+DF0192	Vaskulær demens med hallucinationer UNS
+DF0193	Vaskulær demens med depressive symptomer UNS
+DF0194	Vaskulær demens med blandede symptomer UNS
+DF02	Demens ved andre sygdomme klassificeret andetsteds
+DF020	Demens ved Picks sygdom
+DF0200	Demens ved Picks sygdom uden andre symptomer
+DF0201	Demens ved Picks sygdom med paranoide symptomer
+DF0202	Demens ved Picks sygdom med hallucinationer
+DF0203	Demens ved Picks sygdom med depressive symptomer
+DF0204	Demens ved Picks sygdom med blandede symptomer
+DF021	Demens ved Creutzfeldt-Jakobs sygdom
+DF0210	Demens ved Creutzfeldt-Jakobs sygdom uden andre symptomer
+DF0211	Demens ved Creutzfeldt-Jakobs sygdom med paranoide symptomer
+DF0212	Demens ved Creutzfeldt-Jakobs sygdom med hallucinationer
+DF0213	Demens ved Creutzfeldt-Jakobs sygdom med depressive symptomer
+DF0214	Demens ved Creutzfeldt-Jakobs sygdom med blandede symptomer
+DF022	Demens ved Huntingtons sygdom
+DF0220	Demens ved Huntingtons sygdom uden andre symptomer
+DF0221	Demens ved Huntingtons sygdom med paranoide symptomer
+DF0222	Demens ved Huntingtons sygdom med hallucinationer
+DF0223	Demens ved Huntingtons sygdom med depressive symptomer
+DF0224	Demens ved Huntingtons sygdom med blandede symptomer
+DF023	Demens ved Parkinsons sygdom
+DF0230	Demens ved Parkinsons sygdom uden andre symptomer
+DF0231	Demens ved Parkinsons sygdom med paranoide symptomer
+DF0232	Demens ved Parkinsons sygdom med hallucinationer
+DF0233	Demens ved Parkinsons sygdom med depressive symptomer
+DF0234	Demens ved Parkinsons sygdom med blandede symptomer
+DF024	Demens ved HIV-sygdom
+DF0240	Demens ved HIV-sygdom uden andre symptomer
+DF0241	Demens ved HIV-sygdom med paranoide symptomer
+DF0242	Demens ved HIV-sygdom med hallucinationer
+DF0243	Demens ved HIV-sygdom med depressive symptomer
+DF0244	Demens ved HIV-sygdom med blandede symptomer
+DF028	Demens ved anden sygdom klassificeret andetsteds
+DF0280	Demens uden andre symptomer ved anden sygdom
+DF0281	Demens med paranoide symptomer ved anden sygdom
+DF0282	Demens med hallucinationer ved anden sygdom
+DF0283	Demens med depressive symptomer ved anden sygdom
+DF0284	Demens med blandede symptomer ved anden sygdom
+DF03	Ikke specificeret demens
+DF039	Demens UNS
+DF0390	Demens uden andre symptomer UNS
+DF0391	Demens med paranoide symptomer UNS
+DF0392	Demens med hallucinationer UNS
+DF0393	Demens med depressive symptomer UNS
+DF0394	Demens med blandede symptomer UNS
+DF04	Organisk amnestisk syndrom ikke forårsaget af alkohol eller psykoaktive stoffer
+DF049	Organisk amnestisk syndrom, ikke fremkaldt af psykoaktive stoffer
+DF05	Delir, ikke fremkaldt af alkohol eller psykoaktive stoffer
+DF050	Delir uden demens
+DF051	Delir ved demens
+DF058	Andet delir
+DF059	Delir UNS
+DF06	Andre psykiske lidelser som følge af hjerneskade, hjernedysfunktion eller legemlig sygdom
+DF060	Organisk hallucinose
+DF061	Organisk kataton sindslidelse
+DF062	Organisk paranoid eller skizofreniform sindslidelse
+DF063	Organisk affektiv sindslidelse
+DF0630	Organisk manisk sindslidelse
+DF0631	Organisk bipolar affektiv sindslidelse
+DF0632	Organisk depressiv sindslidelse
+DF0633	Organisk affektiv blandingstilstand
+DF064	Organisk angsttilstand
+DF065	Organisk dissociativ tilstand
+DF066	Organisk emotionel instabilitet og asteni
+DF067	Organisk kognitiv forstyrrelse af lettere grad
+DF0670	Organisk kognitiv forstyrrelse af lettere grad ikke associeret med somatisk sygdom
+DF0671	Organisk kognitiv forstyrrelse af lettere grad associeret med somatisk sygdom
+DF068	Anden organisk psykisk lidelse
+DF069	Organisk psykisk lidelse UNS
+DF07	Personligheds- og adfærdsforstyrrelser forårsaget af sygdom, beskadigelse eller dysfunktion af hjernen
+DF070	Organisk personlighedsforstyrrelse
+DF071	Postencefalitisk syndrom
+DF072	Posttraumatisk hjernesyndrom
+DF078	Anden organisk personligheds- eller adfærdsforstyrrelse
+DF079	Organisk personligheds- eller adfærdsforstyrrelse UNS
+DF09	Ikke specificeret organisk eller symptomatisk mental lidelse eller personlighedsforstyrrelse
+DF099	Organisk eller symptomatisk mental lidelse eller personlighedsforstyrrelse UNS
+	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af psykoaktive stoffer [DF10-DF19]
+DF10	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af alkohol
+DF100	Akut alkoholintoksikation
+DF1000	Akut ukompliceret alkoholintoksikation
+DF1001	Akut alkoholintoksikation med fysisk traume
+DF1002	Akut alkoholintoksikation med andre somatiske komplikationer
+DF1003	Akut alkoholintoksikation med delir
+DF1004	Akut alkoholintoksikation med perceptionsforvrængninger
+DF1005	Akut alkoholintoksikation med koma
+DF1006	Akut alkoholintoksikation med kramper
+DF1007	Akut alkoholintoksikation med patologisk rus
+DF101	Skadelig brug af alkohol
+DF102	Alkoholafhængighedssyndrom
+DF1020	Alkoholafhængighedssyndrom men afholdende
+DF1021	Alkoholafhængighedssyndrom men afholdende i beskyttet miljø
+DF1022	Alkoholafhængighedssyndrom i vedligeholdelses- eller substitutionsbehandling
+DF1023	Alkoholafhængighedssyndrom men afholdende under aversiv medicinsk behandling
+DF1024	Alkoholafhængighedssyndrom aktivt brugende
+DF1025	Alkoholafhængighedssyndrom med kontinuerligt brug
+DF1026	Alkoholafhængighedssyndrom med episodisk brug
+DF103	Abstinenstilstand som følge af alkoholbrug
+DF1030	Abstinenstilstand som følge af alkoholbrug uden kramper
+DF1031	Abstinenstilstand forårsaget af alkoholbrug med kramper
+DF104	Delirøs abstinenstilstand som følge af alkoholbrug
+DF1040	Delirøs abstinenstilstand som følge af alkoholbrug uden kramper
+DF1041	Delirøs abstinenstilstand forårsaget af alkoholbrug med kramper
+DF105	Alkoholpsykose
+DF1050	Skizofrenilignende alkoholpsykose
+DF1051	Paranoid alkoholpsykose
+DF1052	Hallucinatorisk alkoholpsykose
+DF1053	Polymorf alkoholpsykose
+DF1054	Alkoholpsykose med depressive symptomer
+DF1055	Alkoholpsykose med maniske symptomer
+DF1056	Alkoholpsykose med blandede symptomer
+DF106	Amnestisk syndrom som følge af alkoholbrug
+DF107	Sen psykotisk eller residual tilstand forårsaget af alkoholbrug
+DF1070	Flashbacks som følge af alkoholbrug
+DF1071	Personligheds- eller adfærdsforstyrrelse forårsaget af alkoholbrug
+DF1072	Residual affektiv sindslidelse som følge af alkoholbrug
+DF1073	Demens som følge af alkoholbrug
+DF1074	Anden vedvarende kognitiv forstyrrelse som følge af alkoholbrug
+DF1075	Sent indsættende psykotisk tilstand som følge af alkoholbrug
+DF108	Anden psykisk lidelse eller adfærdsforstyrrelse forårsaget af alkoholbrug
+DF109	Psykisk lidelse eller adfærdsforstyrrelse forårsaget af alkoholbrug UNS
+DF11	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af opioider
+DF110	Akut opioidintoksikation
+DF1100	Akut ukompliceret opioidintoksikation
+DF1101	Akut opioidintoksikation med fysisk traume
+DF1102	Akut opioidintoksikation med andre somatiske komplikationer
+DF1103	Akut opioidintoksikation med delir
+DF1104	Akut opioidintoksikation med perceptionsforvrængninger
+DF1105	Akut opioidintoksikation med koma
+DF1106	Akut opioidintoksikation med kramper
+DF111	Skadelig brug af opioider
+DF112	Opioidafhængighedssyndrom
+DF1120	Opioidafhængighedssyndrom men afholdende
+DF1121	Opioidafhængighedssyndrom men afholdende i beskyttet miljø
+DF1122	Opioidafhængighedssyndrom i vedligeholdelses- eller substitutionsbehandling
+DF1123	Opioidafhængighedssyndrom men afholdende under aversiv medikamentel behandling
+DF1124	Opioidafhængighedssyndrom aktivt brugende
+DF1125	Opioidafhængighedssyndrom med kontinuerligt brug
+DF1126	Opioidafhængighedssyndrom med episodisk brug
+DF113	Abstinenstilstand som følge af opioidbrug
+DF1130	Abstinenstilstand som følge af opioidbrug uden kramper
+DF1131	Abstinenstilstand forårsaget af opioidbrug med kramper
+DF114	Delirøs abstinenstilstand som følge af opioidbrug
+DF1140	Delirøs abstinenstilstand som følge af opioidbrug uden kramper
+DF1141	Delirøs abstinenstilstand forårsaget af opioidbrug med kramper
+DF115	Opioidpsykose
+DF1150	Skizofrenilignende opioidpsykose
+DF1151	Paranoid opioidpsykose
+DF1152	Hallucinatorisk opioidpsykose
+DF1153	Polymorf opioidpsykose
+DF1154	Opioidpsykose med depressive symptomer
+DF1155	Opioidpsykose med maniske symptomer
+DF1156	Opioidpsykose med blandede symptomer
+DF117	Sen psykotisk eller residual tilstand forårsaget af opioidbrug
+DF1170	Flashbacks som følge af opioidbrug
+DF1171	Personligheds- eller adfærdsforstyrrelse forårsaget af opioidbrug
+DF1172	Residual affektiv sindslidelse som følge af opioidbrug
+DF1173	Demens som følge af opioidbrug
+DF1174	Anden vedvarende kognitiv forstyrrelse som følge af opioidbrug
+DF1175	Sent indsættende psykotisk tilstand som følge af opioidbrug
+DF118	Anden psykisk lidelse eller adfærdsforstyrrelse forårsaget af opioidbrug
+DF119	Psykisk lidelse eller adfærdsforstyrrelse forårsaget af opioidbrug UNS
+DF12	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af cannabis
+DF120	Akut cannabisintoksikation
+DF1200	Akut ukompliceret cannabisintoksikation
+DF1201	Akut cannabisintoksikation med fysisk traume
+DF1202	Akut cannabisintoksikation med andre somatiske komplikationer
+DF1203	Akut cannabisintoksikation med delir
+DF1204	Akut cannabisintoksikation med perceptionsforvrængninger
+DF1205	Akut cannabisintoksikation med koma
+DF1206	Akut cannabisintoksikation med kramper
+DF121	Skadelig brug af cannabis
+DF122	Cannabisafhængighedssyndrom
+DF1220	Cannabisafhængighedssyndrom men afholdende
+DF1221	Cannabisafhængighedssyndrom men afholdende i beskyttet miljø
+DF1222	Cannabisafhængighedssyndrom i vedligeholdelses- eller substitutionsbehandling
+DF1223	Cannabisafhængighedssyndrom men afholdende under aversiv medikamentel behandling
+DF1224	Cannabisafhængighedssyndrom aktivt brugende
+DF1225	Cannabisafhængighedssyndrom med kontinuerligt brug
+DF1226	Cannabisafhængighedssyndrom med episodisk brug
+DF125	Cannabispsykose
+DF1250	Skizofrenilignende cannabispsykose
+DF1251	Paranoid cannabispsykose
+DF1252	Hallucinatorisk cannabispsykose
+DF1253	Polymorf cannabispsykose
+DF1254	Cannabispsykose med depressive symptomer
+DF1255	Cannabispsykose med maniske symptomer
+DF1256	Cannabispsykose med blandede symptomer
+DF127	Sen psykotisk eller residual tilstand forårsaget af cannabisbrug
+DF1270	Flashbacks som følge af cannabisbrug
+DF1271	Personligheds- eller adfærdsforstyrrelse forårsaget af cannabisbrug
+DF1272	Residual affektiv sindslidelse som følge af cannabisbrug
+DF1273	Demens som følge af cannabisbrug
+DF1274	Anden vedvarende kognitiv forstyrrelse som følge af cannabisbrug
+DF1275	Sent indsættende psykotisk tilstand som følge af cannabisbrug
+DF128	Anden psykisk lidelse eller adfærdsforstyrrelse forårsaget af cannabisbrug
+DF129	Psykisk lidelse eller adfærdsforstyrrelse forårsaget af cannabisbrug UNS
+DF13	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af sedativa eller hypnotika
+DF130	Akut intoksikation med sedativa eller hypnotika
+DF1300	Akut ukompliceret intoksikation med sedativa eller hypnotika
+DF1301	Akut intoksikation med sedativa eller hypnotika med fysisk traume
+DF1302	Akut intoksikation med sedativa eller hypnotika med andre somatiske komplikationer
+DF1303	Akut intoksikation med sedativa eller hypnotika med delir
+DF1304	Akut intoksikation med sedativa eller hypnotika med perceptionsforvrængninger
+DF1305	Akut intoksikation med sedativa eller hypnotika med koma
+DF1306	Akut intoksikation med sedativa eller hypnotika med kramper
+DF131	Skadelig brug af sedativa eller hypnotika
+DF132	Afhængighedssyndrom ved brug af sedativa eller hypnotika
+DF1320	Afhængighedssyndrom ved brug af sedativa eller hypnotika men afholdende
+DF1321	Afhængighedssyndrom ved brug af sedativa eller hypnotika men afholdende i beskyttet miljø
+DF1322	Afhængighedssyndrom ved brug af sedativa eller hypnotika i vedligeholdelses- eller substitutionsbehandling
+DF1323	Afhængighedssyndrom ved brug af sedativa eller hypnotika men afholdende under aversiv medikamentel behandling
+DF1324	Afhængighedssyndrom ved brug af sedativa eller hypnotika aktivt brugende
+DF1325	Afhængighedssyndrom ved brug af sedativa eller hypnotika med kontinuerligt brug
+DF1326	Afhængighedssyndrom ved brug af sedativa eller hypnotika med episodisk brug
+DF133	Abstinenstilstand som følge af brug af sedativa eller hypnotika
+DF1330	Abstinenstilstand som følge af brug af sedativa eller hypnotika uden kramper
+DF1331	Abstinenstilstand forårsaget af brug af sedativa eller hypnotika med kramper
+DF134	Delirøs abstinenstilstand som følge af brug af sedativa eller hypnotika
+DF1340	Delirøs abstinenstilstand som følge af brug af sedativa eller hypnotika uden kramper
+DF1341	Delirøs abstinenstilstand forårsaget af brug af sedativa eller hypnotika med kramper
+DF135	Psykotisk tilstand ved brug af sedativa eller hypnotika
+DF1350	Skizofrenilignende psykotisk tilstand ved brug af sedativa eller hypnotika
+DF1351	Paranoid psykotisk tilstand ved brug af sedativa eller hypnotika
+DF1352	Hallucinatorisk psykotisk tilstand ved brug af sedativa eller hypnotika
+DF1353	Polymorf psykotisk tilstand ved brug af sedativa eller hypnotika
+DF1354	Psykotisk tilstand med depressive symptomer ved brug af sedativa eller hypnotika
+DF1355	Psykotisk tilstand med maniske symptomer ved brug af sedativa eller hypnotika
+DF1356	Blandet psykotisk tilstand ved brug af sedativa eller hypnotika
+DF137	Sen psykotisk eller residual tilstand som følge af brug af sedativa eller hypnotika
+DF1370	Flashbacks som følge af brug af sedativa eller hypnotika
+DF1371	Personligheds- eller adfærdsforstyrrelser som følge af brug af sedativa eller hypnotika
+DF1372	Residual affektiv sindslidelse som følge af brug af sedativa eller hypnotika
+DF1373	Demens som følge af brug af sedativa eller hypnotika
+DF1374	Anden vedvarende kognitiv forstyrrelse som følge af brug af sedativa eller hypnotika
+DF1375	Sent indsættende psykotisk tilstand som følge af brug af sedativa eller hypnotika
+DF138	Anden psykisk lidelse eller adfærdsforstyrrelse som følge af brug af sedativa eller hypnotika
+DF139	Psykisk lidelse eller adfærdsforstyrrelse som følge af brug af sedativa eller hypnotika UNS
+DF14	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af kokain
+DF140	Akut kokainintoksikation
+DF1400	Akut ukompliceret kokainintoksikation
+DF1401	Akut kokainintoksikation med fysisk traume
+DF1402	Akut kokainintoksikation med andre somatiske komplikationer
+DF1403	Akut kokainintoksikation med delirøs tilstand
+DF1404	Akut kokainintoksikation med perceptionsforvrængninger
+DF1405	Akut kokainintoksikation med koma
+DF1406	Akut kokainintoksikation med kramper
+DF141	Skadelig brug af kokain
+DF142	Afhængighedssyndrom ved brug af kokain
+DF1420	Afhængighedssyndrom ved brug af kokain men afholdende
+DF1421	Afhængighedssyndrom ved brug af kokain men afholdende i beskyttet miljø
+DF1422	Afhængighedssyndrom ved brug af kokain i vedligeholdelses- eller substitutionsbehandling
+DF1423	Afhængighedssyndrom ved brug af kokain men afholdende under aversiv medikamentel behandling
+DF1424	Afhængighedssyndrom ved brug af kokain aktivt brugende
+DF1425	Afhængighedssyndrom ved brug af kokain med kontinuerligt brug
+DF1426	Afhængighedssyndrom ved brug af kokain med episodisk brug
+DF143	Abstinenstilstand som følge af brug af kokain
+DF1430	Abstinenstilstand som følge af brug af kokain uden kramper
+DF1431	Abstinenstilstand forårsaget af brug af kokain med kramper
+DF145	Kokainpsykose
+DF1450	Skizofrenilignende kokainpsykose
+DF1451	Paranoid kokainpsykose
+DF1452	Hallucinatorisk kokainpsykose
+DF1453	Polymorf kokainpsykose
+DF1454	Kokainpsykose med depressive symptomer
+DF1455	Kokainpsykose med maniske symptomer
+DF1456	Kokainpsykose med blandede symptomer
+DF147	Sen psykotisk eller residual tilstand forårsaget af kokainbrug
+DF1470	Flashbacks som følge af kokainbrug
+DF1471	Personligheds- eller adfærdsforstyrrelse forårsaget af kokainbrug
+DF1472	Residual affektiv sindslidelse som følge af kokainbrug
+DF1473	Demens som følge af kokainbrug
+DF1474	Anden vedvarende kognitiv forstyrrelse som følge af kokainbrug
+DF1475	Sent indsættende psykotisk tilstand som følge af kokainbrug
+DF148	Anden psykisk lidelse eller adfærdsforstyrrelse forårsaget af kokainbrug
+DF149	Psykisk lidelse eller adfærdsforstyrrelse forårsaget af kokainbrug UNS
+DF15	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af andre centralstimulerende stoffer
+DF150	Akut intoksikation med andet centralstimulerende stof
+DF1500	Akut ukompliceret intoksikation med andet centralstimulerende stof
+DF1501	Akut intoksikation med andet centralstimulerende stof med fysisk traume
+DF1502	Akut intoksikation med andet centralstimulerende stof med andre somatiske komplikationer
+DF1503	Akut intoksikation med andet centralstimulerende stof med delir
+DF1504	Akut intoksikation med andet centralstimulerende stof med perceptionsforvrængninger
+DF1505	Akut intoksikation med andet centralstimulerende stof med koma
+DF1506	Akut intoksikation med andet centralstimulerende stof med kramper
+DF151	Skadelig brug af andet centralstimulerende stof
+DF152	Afhængighedssyndrom ved brug af andet centralstimulerende stof
+DF1520	Afhængighedssyndrom ved brug af andet centralstimulerende stof men afholdende
+DF1521	Afhængighedssyndrom ved brug af andet centralstimulerende stof men afholdende i beskyttet miljø
+DF1522	Afhængighedssyndrom ved brug af andet centralstimulerende stof i vedligeholdelses- eller substitutionsbehandling
+DF1523	Afhængighedssyndrom ved brug af andet centralstimulerende stof men afholdende under aversiv medikamentel behandling
+DF1524	Afhængighedssyndrom ved brug af andet centralstimulerende stof aktivt brugende
+DF1525	Afhængighedssyndrom ved brug af andet centralstimulerende stof med kontinuerligt brug
+DF1526	Afhængighedssyndrom ved brug af andet centralstimulerende stof med episodisk brug
+DF153	Abstinenstilstand forårsaget af brug af andet centralstimulerende stof
+DF1530	Abstinenstilstand forårsaget af brug af andre centralstimulerende stoffer uden kramper
+DF1531	Abstinenstilstand forårsaget af brug af andre centralstimulerende stoffer med kramper
+DF155	Psykotisk tilstand ved brug af andet centralstimulerende stof
+DF1550	Skizofrenilignende psykotisk tilstand ved brug af andet centralstimulerende stof
+DF1551	Paranoid psykotisk tilstand ved brug af andet centralstimulerende stof
+DF1552	Hallucinatorisk psykotisk tilstand ved brug af andet centralstimulerende stof
+DF1553	Polymorf psykotisk tilstand ved brug af andet centralstimulerende stof
+DF1554	Psykotisk tilstand med depressive symptomer ved brug af andet centralstimulerende stof
+DF1555	Psykotisk tilstand med maniske symptomer ved brug af andet centralstimulerende stof
+DF1556	Blandet psykotisk tilstand ved brug af andet centralstimulerende stof
+DF157	Sen psykotisk eller residual tilstand forårsaget af brug af andet centralstimulerende stof
+DF1570	Flashbacks forårsaget af brug af andet centralstimulerende stof
+DF1571	Personligheds- eller adfærdsforstyrrelse forårsaget af brug af andet centralstimulerende stof
+DF1572	Residual affektiv sindslidelse forårsaget af brug af andet centralstimulerende stof
+DF1573	Demens forårsaget af brug af andet centralstimulerende stof
+DF1574	Anden vedvarende kognitiv forstyrrelse forårsaget af brug af andet centralstimulerende stof
+DF1575	Sent indsættende psykotisk tilstand forårsaget af brug af andet centralstimulerende stof
+DF158	Anden psykisk lidelse eller adfærdsforstyrrelse forårsaget af brug af andet centralstimulerende stof
+DF159	Psykisk lidelse eller adfærdsforstyrrelse forårsaget af brug af andet centralstimulerende stof UNS
+DF16	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af hallucinogener
+DF160	Akut hallucinogenintoksikation
+DF1600	Akut ukompliceret hallucinogenintoksikation
+DF1601	Akut hallucinogenintoksikation med fysisk traume
+DF1602	Akut hallucinogenintoksikation med andre somatiske komplikationer
+DF1603	Akut hallucinogenintoksikation med delir
+DF1604	Akut hallucinogenintoksikation med perceptionsforvrængninger
+DF1605	Akut hallucinogenintoksikation med koma
+DF1606	Akut hallucinogenintoksikation med kramper
+DF161	Skadelig brug af hallucinogen
+DF162	Afhængighedssyndrom ved brug af hallucinogen
+DF1620	Afhængighedssyndrom ved brug af hallucinogen men afholdende
+DF1621	Afhængighedssyndrom ved brug af hallucinogen men afholdende i beskyttet miljø
+DF1622	Afhængighedssyndrom ved brug af hallucinogen i vedligeholdelses- eller substitutionsbehandling
+DF1623	Afhængighedssyndrom ved brug af hallucinogen men afholdende under aversiv medikamentel behandling
+DF1624	Afhængighedssyndrom ved brug af hallucinogen aktivt brugende
+DF1625	Afhængighedssyndrom ved brug af hallucinogen med kontinuerligt brug
+DF1626	Afhængighedssyndrom ved brug af hallucinogen med episodisk brug
+DF165	Hallucinogenpsykose
+DF1650	Skizofrenilignende hallucinogenpsykose
+DF1651	Paranoid hallucinogenpsykose
+DF1652	Hallucinatorisk hallucinogenpsykose
+DF1653	Polymorf hallucinogenpsykose
+DF1654	Hallucinogenpsykose med depressive symptomer
+DF1655	Hallucinogenpsykose med maniske symptomer
+DF1656	Hallucinogenpsykose med blandede symptomer
+DF167	Sen psykotisk eller residual tilstand forårsaget af hallucinogenbrug
+DF1670	Flashbacks som følge af hallucinogenbrug
+DF1671	Personligheds- eller adfærdsforstyrrelse forårsaget af hallucinogenbrug
+DF1672	Residual affektiv sindslidelse som følge af hallucinogenbrug
+DF1673	Demens som følge af hallucinogenbrug
+DF1674	Anden vedvarende kognitiv forstyrrelse som følge af hallucinogenbrug
+DF1675	Sent indsættende psykotisk tilstand som følge af hallucinogenbrug
+DF168	Anden psykisk lidelse eller adfærdsforstyrrelse forårsaget af hallucinogenbrug
+DF169	Psykisk lidelse eller adfærdsforstyrrelse forårsaget af hallucinogenbrug UNS
+DF17	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af tobak
+DF170	Akut tobaksintoksikation
+DF1700	Akut ukompliceret tobaksintoksikation
+DF1701	Akut tobaksintoksikation med fysisk traume
+DF1702	Akut tobaksintoksikation med andre somatiske komplikationer
+DF1703	Akut tobaksintoksikation med delir
+DF1704	Akut tobaksintoksikation med perceptionsforvrængninger
+DF1705	Akut tobaksintoksikation med koma
+DF1706	Akut tobaksintoksikation med kramper
+DF171	Skadelig brug af tobak
+DF172	Afhængighedssyndrom ved brug af tobak
+DF1720	Afhængighedssyndrom ved brug af tobak men afholdende
+DF1721	Afhængighedssyndrom ved brug af tobak men afholdende i beskyttet miljø
+DF1722	Afhængighedssyndrom ved brug af tobak i vedligeholdelses- eller substitutionsbehandling
+DF1723	Afhængighedssyndrom ved brug af tobak men afholdende under aversiv medikamentel behandling
+DF1724	Afhængighedssyndrom ved brug af tobak aktivt brugende
+DF1725	Afhængighedssyndrom ved brug af tobak med kontinuerligt brug
+DF1726	Afhængighedssyndrom ved brug af tobak med episodisk brug
+DF178	Anden psykisk lidelse eller adfærdsforstyrrelse forårsaget af tobaksbrug
+DF179	Psykisk lidelse eller adfærdsforstyrrelse forårsaget af tobaksbrug UNS
+DF18	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af flygtige opløsningsmidler
+DF180	Akut intoksikation med flygtigt opløsningsmiddel
+DF1800	Akut ukompliceret intoksikation med flygtige opløsningsmidler
+DF1801	Akut intoksikation med flygtige opløsningsmidler med fysisk traume
+DF1802	Akut intoksikation med flygtige opløsningsmidler med andre somatiske komplikationer
+DF1803	Akut intoksikation med flygtige opløsningsmidler med delir
+DF1804	Akut intoksikation med flygtige opløsningsmidler med perceptionsforvrængninger
+DF1805	Akut intoksikation med flygtige opløsningsmidler med koma
+DF1806	Akut intoksikation med flygtige opløsningsmidler med kramper
+DF181	Skadelig brug af flygtigt opløsningsmiddel
+DF182	Afhængighedssyndrom ved brug af flygtigt opløsningsmiddel
+DF1820	Afhængighedssyndrom ved brug af flygtige opløsningsmidler men afholdende
+DF1821	Afhængighedssyndrom ved brug af flygtige opløsningsmidler men afholdende i beskyttet miljø
+DF1822	Afhængighedssyndrom ved brug af flygtige opløsningsmidler i vedligeholdelses- eller substitutionsbehandling
+DF1823	Afhængighedssyndrom ved brug af flygtige opløsningsmidler men afholdende under aversiv medikamentel behandling
+DF1824	Afhængighedssyndrom ved brug af flygtige opløsningsmidler aktivt brugende
+DF1825	Afhængighedssyndrom ved brug af flygtige opløsningsmidler med kontinuerligt brug
+DF1826	Afhængighedssyndrom ved brug af flygtige opløsningsmidler med episodisk brug
+DF185	Psykotisk tilstand ved brug af flygtige opløsningsmidler
+DF1850	Skizofrenilignende psykotisk tilstand ved brug af flygtige opløsningsmidler
+DF1851	Paranoid psykotisk tilstand ved brug af flygtige opløsningsmidler
+DF1852	Hallucinatorisk psykotisk tilstand ved brug af flygtige opløsningsmidler
+DF1853	Polymorf psykotisk tilstand ved brug af flygtige opløsningsmidler
+DF1854	Psykotisk tilstand med depressive symptomer ved brug af flygtige opløsningsmidler
+DF1855	Psykotisk tilstand med maniske symptomer ved brug af flygtige opløsningsmidler
+DF1856	Blandet psykotisk tilstand ved brug af flygtige opløsningsmidler
+DF186	Amnestisk syndrom som følge af brug af flygtige opløsningsmidler
+DF187	Sen psykotisk eller residual tilstand forårsaget af brug af flygtige opløsningsmidler
+DF1870	Flashbacks som følge af brug af flygtige opløsningsmidler
+DF1871	Personligheds- eller adfærdsforstyrrelse forårsaget af brug af flygtige opløsningsmidler
+DF1872	Residual affektiv sindslidelse som følge af brug af flygtige opløsningsmidler
+DF1873	Demens som følge af brug af flygtige opløsningsmidler
+DF1874	Anden vedvarende kognitiv forstyrrelse som følge af brug af flygtige opløsningsmidler
+DF1875	Sent indsættende psykotisk tilstand som følge af brug af flygtige opløsningsmidler
+DF188	Anden psykisk lidelse eller adfærdsforstyrrelse forårsaget af brug af flygtige opløsningsmidler
+DF189	Psykisk lidelse eller adfærdsforstyrrelse forårsaget af brug af flygtige opløsningsmidler UNS
+DF19	Psykiske lidelser og adfærdsmæssige forstyrrelser forårsaget af brug af multiple eller andre psykoaktive stoffer
+DF190	Akut intoksikation med multiple eller andre psykoaktive stoffer
+DF1900	Akut ukompliceret intoksikation med flere eller andre psykoaktive stoffer
+DF1901	Akut intoksikation med flere eller andre psykoaktive stoffer med fysisk traume
+DF1902	Akut intoksikation med flere eller andre psykoaktive stoffer med andre somatiske komplikationer
+DF1903	Akut intoksikation med flere eller andre psykoaktive stoffer med delir
+DF1904	Akut intoksikation med flere eller andre psykoaktive stoffer med perceptionsforvrængninger
+DF1905	Akut intoksikation med flere eller andre psykoaktive stoffer med koma
+DF1906	Akut intoksikation med flere eller andre psykoaktive stoffer med kramper
+DF191	Skadelig brug af flere eller andre psykoaktive stoffer
+DF192	Afhængighedssyndrom ved brug af flere eller andre psykoaktive stoffer
+DF1920	Afhængighedssyndrom ved brug af flere eller andre psykoaktive stoffer men afholdende
+DF1921	Afhængighedssyndrom ved brug af flere eller andre psykoaktive stoffer men afholdende i beskyttet miljø
+DF1922	Afhængighedssyndrom ved brug af flere eller andre psykoaktive stoffer i vedligeholdelses- eller substitutionsbehandling
+DF1923	Afhængighedssyndrom ved brug af flere eller andre psykoaktive stoffer men afholdende under aversiv medikamentel behandling
+DF1924	Afhængighedssyndrom ved brug af flere eller andre psykoaktive stoffer aktivt brugende
+DF1925	Afhængighedssyndrom ved brug af flere eller andre psykoaktive stoffer med kontinuerligt brug
+DF1926	Afhængighedssyndrom ved brug af flere eller andre psykoaktive stoffer med episodisk brug
+DF193	Abstinenstilstand som følge af brug af flere eller andre psykoaktive stoffer
+DF1930	Abstinenstilstand som følge af brug af flere eller andre psykoaktive stoffer uden kramper
+DF1931	Abstinenstilstand forårsaget af brug af flere eller andre psykoaktive stoffer med kramper
+DF194	Delirøs abstinenstilstand som følge af brug af flere eller andre psykoaktive stoffer
+DF1940	Delirøs abstinenstilstand forårsaget af brug af flere eller andre psykoaktive stoffer uden kramper
+DF1941	Delirøs abstinenstilstand forårsaget af brug af flere eller andre psykoaktive stoffer med kramper
+DF195	Psykotisk tilstand ved brug af flere eller andre psykoaktive stoffer
+DF1950	Skizofrenilignende psykotisk tilstand ved brug af flere eller andre psykoaktive stoffer
+DF1951	Paranoid psykotisk tilstand ved brug af flere eller andre psykoaktive stoffer
+DF1952	Hallucinatorisk psykotisk tilstand ved brug af flere eller andre psykoaktive stoffer
+DF1953	Polymorf psykotisk tilstand ved brug af flere eller andre psykoaktive stoffer
+DF1954	Psykotisk tilstand med depressive symptomer ved brug af flere eller andre psykoaktive stoffer
+DF1955	Psykotisk tilstand med maniske symptomer ved brug af flere eller andre psykoaktive stoffer
+DF1956	Blandet psykotisk tilstand ved brug af flere eller andre psykoaktive stoffer
+DF196	Amnestisk syndrom som følge af brug af flere eller andre psykoaktive stoffer
+DF197	Sen psykotisk eller residual tilstand forårsaget af brug af flere eller andre psykoaktive stoffer
+DF1970	Flashbacks som følge af brug af flere eller andre psykoaktive stoffer
+DF1971	Personligheds- eller adfærdsforstyrrelser forårsaget af brug af flere eller andre psykoaktive stoffer
+DF1972	Residual affektiv sindslidelse som følge af brug af flere eller andre psykoaktive stoffer
+DF1973	Demens som følge af brug af flere eller andre psykoaktive stoffer
+DF1974	Anden vedvarende kognitiv forstyrrelse som følge af brug af flere eller andre psykoaktive stoffer
+DF1975	Sent indsættende psykotisk tilstand som følge af brug af flere eller andre psykoaktive stoffer
+DF198	Anden psykisk lidelse eller adfærdsforstyrrelse som følge af brug af flere eller andre psykoaktive stoffer
+DF199	Psykisk lidelse eller adfærdsforstyrrelse som følge af brug af flere eller andre psykoaktive stoffer UNS
+	Skizofreni, skizotypisk sindslidelse, paranoide psykoser, akutte og forbigående psykoser samt skizoaffektive psykoser [DF20-DF29]
+DF20	Skizofreni
+DF200	Paranoid skizofreni
+DF2000	Kontinuerlig paranoid skizofreni
+DF2001	Episodisk paranoid skizofreni med fremadskridende defekt
+DF2002	Episodisk paranoid skizofreni med stabil defekt
+DF2003	Episodisk remitterende paranoid skizofreni
+DF2004	Paranoid skizofreni med inkomplet remission
+DF2005	Paranoid skizofreni med komplet remission
+DF2008	Paranoid skizofreni med andet forløb
+DF2009	Paranoid skizofreni med ubestemt forløb
+DF201	Hebefren skizofreni
+DF2010	Kontinuerlig hebefren skizofreni
+DF2011	Episodisk hebefren skizofreni med fremadskridende defekt
+DF2012	Episodisk hebefren skizofreni med stabil defekt
+DF2013	Episodisk remitterende hebefren skizofreni
+DF2014	Hebefren skizofreni med inkomplet remission
+DF2015	Hebefren skizofreni med komplet remission
+DF2018	Hebefren skizofreni med andet forløb
+DF2019	Hebefren skizofreni med ubestemt forløb
+DF202	Kataton skizofreni
+DF2020	Kontinuerlig kataton skizofreni
+DF2021	Episodisk kataton skizofreni med fremadskridende defekt
+DF2022	Episodisk kataton skizofreni med stabil defekt
+DF2023	Episodisk remitterende kataton skizofreni
+DF2024	Kataton skizofreni med inkomplet remission
+DF2025	Kataton skizofreni med komplet remission
+DF2028	Kataton skizofreni med andet forløb
+DF2029	Kataton skizofreni med forløb ubestemt
+DF203	Udifferentieret skizofreni
+DF2030	Kontinuerlig udifferentieret skizofreni
+DF2031	Episodisk udifferentieret skizofreni med fremadskridende defekt
+DF2032	Episodisk udifferentieret skizofreni med stabil defekt
+DF2033	Episodisk remitterende udifferentieret skizofreni
+DF2034	Udifferentieret skizofreni med inkomplet remission
+DF2035	Udifferentieret skizofreni med komplet remission
+DF2038	Udifferentieret skizofreni med andet forløb
+DF2039	Udifferentieret skizofreni med ubestemt forløb
+DF204	Post-skizofren depression
+DF2040	Kontinuerlig post-skizofren depression
+DF2041	Episodisk post-skizofren depression med fremadskridende defekt
+DF2042	Episodisk post-skizofren depression med stabil defekt
+DF2043	Episodisk remitterende post-skizofren depression
+DF2044	Post-skizofren depression med inkomplet remission
+DF2045	Post-skizofren depression med komplet remission
+DF2048	Post-skizofren depression med andet forløb
+DF2049	Post-skizofren depression med ubestemt forløb
+DF205	Skizofren residual-tilstand
+DF2050	Kontinuerlig skizofren residualtilstand
+DF2051	Episodisk skizofren residualtilstand med fremadskridende defekt
+DF2052	Episodisk skizofren residualtilstand med stabil defekt
+DF2053	Episodisk remitterende skizofren residualtilstand
+DF2054	Skizofren residualtilstand med inkomplet remission
+DF2055	Skizofren residualtilstand med komplet remission
+DF2058	Skizofren residualtilstand med andet forløb
+DF2059	Skizofren residualtilstand med ubestemt forløb
+DF206	Simpel skizofreni
+DF2060	Kontinuerlig simpel skizofreni
+DF2061	Episodisk simpel skizofreni med fremadskridende defekt
+DF2062	Episodisk simpel skizofreni med stabil defekt
+DF2063	Episodisk remitterende simpel skizofreni
+DF2064	Simpel skizofreni med inkomplet remission
+DF2065	Simpel skizofreni med komplet remission
+DF2068	Simpel skizofreni med andet forløb
+DF2069	Simpel skizofreni med ubestemt forløb
+DF208	Skizofreni af anden type
+DF2080	Kontinuerlig skizofreni af anden type
+DF2081	Episodisk skizofreni af anden type med fremadskridende defekt
+DF2082	Episodisk skizofreni af anden type med stabil defekt
+DF2083	Episodisk remitterende skizofreni af anden type
+DF2084	Skizofreni af anden type med inkomplet remission
+DF2085	Skizofreni af anden type med komplet remission
+DF2088	Skizofreni af anden type med andet forløb
+DF2089	Skizofreni af anden type med ubestemt forløb
+DF209	Skizofreni UNS
+DF2090	Kontinuerlig skizofreni UNS
+DF2091	Episodisk skizofreni UNS med fremadskridende defekt
+DF2092	Episodisk skizofreni UNS med stabil defekt
+DF2093	Episodisk remitterende skizofreni UNS
+DF2094	Skizofreni UNS med inkomplet remission
+DF2095	Skizofreni UNS med komplet remission
+DF2098	Skizofreni UNS med andet forløb
+DF2099	Skizofreni UNS med ubestemt forløb
+DF21	Skizotypisk sindslidelse
+DF219	Skizotypisk sindslidelse UNS
+DF22	Paranoide psykoser
+DF220	Enkel paranoia
+DF228	Anden paranoid psykose
+DF229	Paranoid psykose UNS
+DF23	Akutte og forbigående psykoser
+DF230	Akut polymorf non-skizofreniform psykose
+DF2300	Akut polymorf non-skizofreniform non-reaktiv psykose
+DF2301	Akut polymorf non-skizofreniform reaktiv psykose
+DF231	Akut polymorf skizofreniform psykose
+DF2310	Akut polymorf skizofreniform non-reaktiv psykose
+DF2311	Akut polymorf skizofreniform reaktiv psykose
+DF232	Akut skizofreniform psykose
+DF2320	Akut skizofreniform non-reaktiv psykose
+DF2321	Akut skizofreniform reaktiv psykose
+DF233	Akut paranoid psykose
+DF2330	Akut paranoid non-reaktiv psykose
+DF2331	Akut paranoid reaktiv psykose
+DF238	Anden akut eller forbigående psykose
+DF2380	Anden non-reaktiv psykose
+DF2381	Anden reaktiv psykose
+DF239	Akut eller forbigående psykose UNS
+DF2390	Akut eller forbigående non-reaktiv psykose UNS
+DF2391	Akut eller forbigående reaktiv psykose UNS
+DF24	Induceret psykose
+DF249	Induceret paranoid psykose
+DF25	Skizoaffektive psykoser
+DF250	Skizoaffektiv psykose af manisk type
+DF2500	Skizoaffektiv psykose af manisk type med maniske og skizofrene symptomer fuldt ud samtidige
+DF2501	Skizoaffektiv psykose af manisk type med skizofrene symptomer ud over varigheden af de maniske symptomer
+DF251	Skizoaffektiv psykose af depressiv type
+DF2510	Skizoaffektiv psykose af depressiv type med depressive og skizofrene symptomer fuldt ud samtidige
+DF2511	Skizoaffektiv psykose af depressiv type med skizofrene symptomer ud over varigheden af de depressive symptomer
+DF252	Skizoaffektiv psykose af blandet manisk-depressiv type
+DF2520	Skizoaffektiv psykose af blandet manisk-depressiv type med affektive og skizofrene symptomer fuldt ud samtidige
+DF2521	Skizoaffektiv psykose af blandet manisk-depressiv type med skizofrene symptomer ud over varigheden af de affektive symptomer
+DF258	Skizoaffektiv psykose af anden type
+DF2580	Skizoaffektiv psykose af anden type med affektive og skizofrene symptomer fuldt ud samtidige
+DF2581	Skizoaffektiv psykose af anden type med skizofrene symptomer ud over varigheden af de affektive symptomer
+DF259	Skizoaffektiv psykose UNS
+DF2590	Skizoaffektiv psykose UNS med affektive og skizofrene symptomer fuldt ud samtidige
+DF2591	Skizoaffektiv psykose UNS med skizofrene symptomer ud over varigheden af de affektive symptomer
+DF28	Andre ikke-organiske psykoser
+DF289	Anden ikke-organisk psykose UNS
+DF29	Ikke specificeret ikke-organisk psykose
+DF299	Ikke-organisk psykose UNS
+	Affektive sindslidelser [DF30-DF39]
+DF30	Manisk enkeltepisode
+DF300	Hypoman enkeltepisode
+DF301	Manisk enkeltepisode uden psykotiske symptomer
+DF302	Manisk enkeltepisode med psykotiske symptomer
+DF3020	Manisk enkeltepisode med stemningskongruente psykotiske symptomer
+DF3021	Manisk enkeltepisode med stemningsinkongruente psykotiske symptomer
+DF308	Manisk enkeltepisode af anden type
+DF309	Manisk enkeltepisode UNS
+DF309A	Mani UNS
+DF31	Bipolar affektiv sindslidelse
+DF310	Bipolar affektiv sindslidelse i hypoman episode
+DF311	Bipolær affektiv sindslidelse i manisk episode uden psykotiske symptomer
+DF312	Bipolar affektiv sindslidelse i manisk episode med psykotiske symptomer
+DF3120	Bipolær affektiv sindslidelse i manisk episode med stemningskongruente psykotiske symptomer
+DF3121	Bipolær affektiv sindslidelse i manisk episode med stemningsinkongruente psykotiske symptomer
+DF313	Bipolar affektiv sindslidelse i lettere eller moderat depressiv episode
+DF314	Bipolær affektiv sindslidelse i svær depressiv episode uden psykotiske symptomer
+DF315	Bipolær affektiv sindslidelse i svær depressiv episode med psykotiske symptomer
+DF3150	Bipolær affektiv sindslidelse i svær depressiv episode med stemningskongruente psykotiske symptomer
+DF3151	Bipolær affektiv sindslidelse i svær depressiv episode med stemningsinkongruente psykotiske symptomer
+DF316	Bipolar affektiv sindslidelse i episode med blandingstilstand
+DF317	Bipolar affektiv sindslidelse i remission
+DF318	Anden form for bipolar affektiv sindslidelse
+DF319	Bipolar affektiv sindslidelse UNS
+DF32	Depressiv enkeltepisode
+DF320	Depressiv enkeltepisode af lettere grad
+DF3200	Depressiv non-melankoliform enkeltepisode af lettere grad
+DF3201	Depressiv melankoliform enkeltepisode af lettere grad
+DF321	Depressiv enkeltepisode af moderat grad
+DF3210	Depressiv non-melankoliform enkeltepisode af moderat grad
+DF3211	Depressiv melankoliform enkeltepisode af moderat grad
+DF322	Depressiv enkeltepisode af svær grad uden psykotiske symptomer
+DF323	Depressiv enkeltepisode af svær grad med psykotiske symptomer
+DF3230	Depressiv enkeltepisode af svær grad med stemningskongruente psykotiske symptomer
+DF3231	Depressiv enkeltepisode af svær grad med stemningsinkongruente psykotiske symptomer
+DF328	Depressiv enkeltepisode af anden type
+DF329	Depressiv enkeltepisode UNS
+DF33	Periodisk depression
+DF330	Periodisk depression i episode af lettere grad
+DF3300	Periodisk non-melankoliform depression i episode af lettere grad
+DF3301	Periodisk melankoliform depression i episode af lettere grad
+DF331	Periodisk depression i episode af moderat grad
+DF3310	Periodisk non-melankoliform depression i episode af moderat grad
+DF3311	Periodisk melankoliform depression i episode af moderat grad
+DF332	Periodisk depression i episode af svær grad uden psykotiske symptomer
+DF333	Periodisk depression i episode af svær grad med psykotiske symptomer
+DF3330	Periodisk depression i episode af svær grad med stemningskongruente psykotiske symptomer
+DF3331	Periodisk depression i episode af svær grad med stemningsinkongruente psykotiske symptomer
+DF334	Periodisk depression i remission
+DF338	Periodisk depression af anden type
+DF339	Periodisk depression UNS
+DF34	Vedvarende affektive tilstande
+DF340	Cyklotymi
+DF3400	Cyklotym personlighedsstruktur
+DF3401	Cyklotym tilstand
+DF341	Dystymi
+DF3410	Depressiv personlighedsstruktur
+DF3411	Kronisk lettere depressionstilstand
+DF348	Kronisk forstemningstilstand af anden type
+DF349	Kronisk forstemningstilstand UNS
+DF38	Andre affektive sindslidelser eller tilstande
+DF380	Anden affektiv sindslidelse, enkeltepisode
+DF3800	Anden affektiv sindslidelse, enkeltepisode med blandingstilstand
+DF381	Anden periodisk affektiv sindslidelse
+DF3810	Affektiv sindslidelse med tilbagevendende, kortvarige depressive episoder
+DF388	Anden affektiv sindslidelse eller tilstand
+DF39	Ikke specificeret affektiv sindslidelse eller tilstand
+DF399	Affektiv sindslidelse UNS
+	Nervøse og stress-relaterede tilstande samt tilstande med psykisk betingede legemlige symptomer [DF40-DF48]
+DF40	Fobiske angsttilstande
+DF400	Agorafobi
+DF4000	Agorafobi uden panikangst
+DF4001	Agorafobi med panikangst
+DF401	Socialfobi
+DF402	Enkelfobi
+DF402A	Parasitofobi
+DF408	Fobisk angst af anden type
+DF408A	Venerofobi
+DF409	Fobisk angst UNS
+DF41	Andre angsttilstande
+DF410	Panikangst
+DF4100	Moderat panikangst
+DF4101	Svær panikangst
+DF411	Generaliseret angst
+DF412	Lettere angst-depressionstilstand
+DF413	Anden blandet angsttilstand
+DF418	Anden angsttilstand
+DF418A	Fødselsangst
+DF418B	Angsthysteri
+DF419	Angsttilstand UNS
+DF42	Obsessiv-kompulsiv tilstand
+DF420	Overvejende obsessiv tilstand
+DF421	Overvejende kompulsiv tilstand
+DF422	Blandet obsessiv-kompulsiv tilstand
+DF428	Anden obsessiv-kompulsiv tilstand
+DF429	Obsessiv-kompulsiv tilstand UNS
+DF43	Reaktioner på svær belastning og tilpasningsreaktioner
+DF430	Akut belastningsreaktion
+DF4300	Let akut belastningsreaktion
+DF4301	Moderat akut belastningsreaktion
+DF4302	Svær akut belastningsreaktion
+DF431	Posttraumatisk belastningsreaktion
+DF432	Tilpasningsreaktion
+DF4320	Kortvarig depressiv tilpasningsreaktion
+DF4321	Langvarig depressiv tilpasningsreaktion
+DF4322	Blandet angst-depressiv tilpasningsreaktion
+DF4323	Tilpasningsreaktion med andre emotionelle symptomer
+DF4324	Tilpasningsreaktion med overvejende adfærdsforstyrrelse
+DF4325	Tilpasningsreaktion med adfærdssymptomer og emotionelle symptomer
+DF4328	Anden tilpasningsreaktion
+DF438	Anden belastningsreaktion
+DF439	Belastningsreaktion UNS
+DF44	Dissociative tilstande og forstyrrelser
+DF440	Dissociativ amnesi
+DF441	Dissociativ fugue
+DF442	Dissociativ stupor
+DF443	Dissociativ trance- eller besættelsestilstand
+DF444	Dissociativ bevægelsesforstyrrelse
+DF445	Dissociative kramper
+DF446	Dissociativ sanseforstyrrelse
+DF446A	Psykogent høretab
+DF447	Blandet dissociativ tilstand
+DF448	Anden dissociativ tilstand eller forstyrrelse
+DF4480	Gansers syndrom
+DF4481	Multipel personlighed
+DF4482	Forbigående dissociativ tilstand i barndom eller adolescens
+DF4488	Anden dissociativ tilstand
+DF4488A	Søvnrelateret dissociativ sygdom
+DF449	Dissociativ tilstand eller forstyrrelse UNS
+DF45	Somatoforme tilstande
+DF450	Somatiseringstilstand
+DF451	Udifferentieret somatoform tilstand
+DF452	Helbredsangst
+DF452A	Dysmorfofobi
+DF453	Somatoform autonom dysfunktion
+DF4530	Somatoform autonom dysfunktion i det kardiovaskulære system
+DF4531	Somatoform autonom dysfunktion i det øvre gastrointestinale system
+DF4532	Somatoform autonom dysfunktion i det nedre gastrointestinale system
+DF4533	Somatoform autonom dysfunktion i det respiratoriske system
+DF4534	Somatoform autonom dysfunktion i det urogenitale system
+DF4538	Somatoform autonom dysfunktion i andet organ eller system
+DF454	Vedvarende somatoform smertetilstand
+DF458	Anden somatoform tilstand
+DF459	Somatoform tilstand UNS
+DF48	Andre nervøse tilstande
+DF480	Neurasteni
+DF481	Depersonalisations-derealisations syndrom
+DF488	Anden nervøs tilstand
+DF489	Nervøs tilstand UNS
+	Adfærdsændringer forbundet med fysiologiske forstyrrelser og fysiske faktorer [DF50-DF59]
+DF50	Spiseforstyrrelser
+DF500	Nervøs spisevægring
+DF501	Atypisk nervøs spisevægring
+DF502	Nervøs spiseanfaldstilbøjelighed
+DF503	Atypisk nervøs spiseanfaldstilbøjelighed
+DF504	Trøstespisning
+DF505	Opkastning forbundet med anden psykisk forstyrrelse
+DF508	Anden spiseforstyrrelse
+DF508A	Tvangsoverspisning (BED)
+DF509	Spiseforstyrrelse UNS
+DF51	Ikke-organiske søvnforstyrrelser
+DF510	Ikke-organisk søvnløshed
+DF5100	Søvnløshed UNS
+DF5101	Akut søvnløshed
+DF5102	Paradoks søvnløshed
+DF5103	Psykofysiologisk søvnløshed
+DF5104	Idiopatisk søvnløshed
+DF5105	Søvnløshed betinget af mental sygdom
+DF511	Ikke-organisk øget søvntrang
+DF5110	Hypersomni uden kendt årsag
+DF5111	Adfærdsbetinget utilstrækkelig søvn
+DF512	Ikke-organisk søvnrytmeforstyrrelse
+DF5120	Forstyrret søvnrytme UNS
+DF5121	Forstyrret søvnrytme på grund af tidszoneskift
+DF5122	Forstyrret søvnrytme på grund af skifteholdsarbejde
+DF5123	Forstyrret søvnrytme på grund af forsinket søvntid
+DF513	Søvngængeri
+DF514	Søvnrædsel
+DF515	Natlige mareridt
+DF518	Anden form for ikke-organisk søvnforstyrrelse
+DF518A	Eksternt betinget søvnforstyrrelse UNS
+DF519	Ikke-organisk søvnforstyrrelse UNS
+DF52	Ikke-organiske seksuelle funktionsforstyrrelser
+DF520	Nedsat eller manglende seksuallyst
+DF521	Seksuel aversion eller manglende seksuel lystfølelse
+DF5210	Seksuel aversion
+DF5211	Manglende seksuel lystfølelse
+DF522	Ikke-organisk genital dysfunktion
+DF522A	Psykogen impotens
+DF523	Hæmmet orgasme
+DF524	Præmatur ejakulation
+DF525	Ikke-organisk vaginisme
+DF526	Ikke-organisk dyspareuni
+DF527	Øget seksualdrift
+DF528	Anden ikke-organisk seksuel dysfunktion
+DF529	Ikke-organisk seksuel dysfunktion UNS
+DF53	Psykiske lidelser i barselsperioden IKA
+DF530	Lettere psykisk lidelse i barselsperioden IKA
+DF530A	Barselsdepression
+DF531	Svær psykisk lidelse i barselsperioden IKA
+DF538	Anden psykisk lidelse i barselsperioden IKA
+DF539	Psykisk lidelse i barselsperioden UNS
+DF54	Psykiske faktorer forbundet med sygdomme klassificeret andetsteds
+DF549	Psykiske faktorer forbundet med sygdom klassificeret andetsteds
+DF55	Misbrug af ikke-afhængighedsskabende stoffer
+DF550	Misbrug af antidepressiva
+DF551	Misbrug af laksantia
+DF552	Misbrug af ikke-psykoaktive analgetika
+DF553	Misbrug af antacida
+DF554	Misbrug af vitaminer
+DF555	Misbrug af steroider eller hormoner
+DF556	Misbrug af naturmedicin
+DF558	Misbrug af andre ikke-afhængighedsskabende stoffer
+DF559	Misbrug af ikke-afhængighedsskabende stoffer UNS
+DF59	Adfærdsændringer forbundet med fysiologiske og fysiske faktorer uden nærmere specificering
+DF599	Adfærdsændring UNS forbundet med fysiologisk eller fysisk faktor
+	Forstyrrelser i personlighedsstruktur og adfærd i voksenalderen [DF60-DF69]
+DF60	Specifikke forstyrrelser af personlighedsstrukturen
+DF600	Paranoid personlighedsstruktur
+DF601	Skizoid personlighedsstruktur
+DF602	Dyssocial personlighedsstruktur
+DF603	Emotionelt ustabil personlighedsstruktur
+DF6030	Emotionelt ustabil personlighedsstruktur af impulsiv type
+DF6031	Emotionelt ustabil personlighedsstruktur af borderline type
+DF604	Histrionisk personlighedsstruktur
+DF605	Tvangspræget personlighedsstruktur
+DF606	Ængstelig personlighedsstruktur
+DF607	Dependent personlighedsstruktur
+DF608	Anden forstyrrelse af personlighedsstrukturen
+DF609	Forstyrrelse i personlighedsstrukturen UNS
+DF61	Forstyrrelser i personlighedsstruktur af blandet og anden type
+DF610	Forstyrrelse i personlighedsstruktur af blandet type
+DF611	Personlighedsændring ved primær affektiv lidelse eller angsttilstand
+DF62	Ikke-organiske personlighedsændringer
+DF620	Personlighedsændring efter katastrofeoplevelse
+DF621	Personlighedsændring efter psykisk sygdom
+DF628	Anden personlighedsændring
+DF629	Personlighedsændring UNS
+DF63	Patologiske vane- og impulshandlinger
+DF630	Patologisk spillelidenskab
+DF631	Pyromani
+DF632	Kleptomani
+DF633	Trikotillomani
+DF638	Anden patologisk vane- og impulshandling
+DF639	Patologisk vane- og impulshandling UNS
+DF65	Seksuelle afvigelser
+DF650	Fetichisme
+DF652	Exhibitionisme
+DF653	Voyeurisme
+DF654	Pædofili
+DF656	Blandet seksuel afvigelser
+DF658	Anden seksuel afvigelse
+DF659	Seksuel afvigelse UNS
+DF66	Seksuelle udviklings- og orienteringsforstyrrelser
+DF660	Seksuel modningsforstyrrelse
+DF661	Egodyston seksualorientering
+DF662	Seksuel forholdsforstyrrelse
+DF668	Anden psykoseksuel udviklingsforstyrrelse
+DF669	Psykoseksuel udviklingsforstyrrelse UNS
+DF68	Andre forstyrrelser i personlighedsstruktur og adfærd hos voksne
+DF680	Psykisk udbygning af somatiske symptomer
+DF681	Sygdomsefterligning helt eller delvist bevidst
+DF681A	Secretans syndrom
+DF681B	Patomimi
+DF681C	Selvmutilation UNS
+DF681D	Münchhausens syndrom
+DF688	Anden forstyrrelse i personlighed, struktur og adfærd hos voksen
+DF69	Forstyrrelser i personlighedsstruktur og adfærd uden nærmere specificering
+DF699	Forstyrrelse i personlighedsstruktur og adfærd UNS
+	Mental retardering [DF70-DF79]
+DF70	Mental retardering af lettere grad
+DF700	Lettere mental retardering med ringe påvirkning af adfærd
+DF701	Lettere mental retardering med væsentlig påvirkning af adfærd
+DF708	Lettere mental retardering med anden påvirkning af adfærd
+DF709	Lettere mental retardering med påvirkning af adfærd UNS
+DF71	Mental retardering af middelsvær grad
+DF710	Middelsvær mental retardering med ringe påvirkning af adfærd
+DF711	Middelsvær mental retardering med væsentlig påvirkning af adfærd
+DF718	Middelsvær mental retardering med anden påvirkning af adfærd
+DF719	Middelsvær mental retardering med påvirkning af adfærd UNS
+DF72	Mental retardering af sværere grad
+DF720	Sværere mental retardering med ringe påvirkning af adfærd
+DF721	Sværere mental retardering med væsentlig påvirkning af adfærd
+DF728	Sværere mental retardering med anden påvirkning af adfærd
+DF729	Sværere mental retardering med påvirkning af adfærd UNS
+DF73	Mental retardering i sværeste grad
+DF730	Mental retardering i sværeste grad med ringe påvirkning af adfærd
+DF731	Mental retardering i sværeste grad med væsentlig påvirkning af adfærd
+DF738	Mental retardering i sværeste grad med med anden påvirkning af adfærd
+DF739	Mental retardering i sværeste grad med påvirkning af adfærd UNS
+DF78	Anden mental retardering
+DF780	Anden mental retardering med ringe påvirkning af adfærd
+DF781	Anden mental retardering med væsentlig påvirkning af adfærd
+DF788	Anden mental retardering med anden påvirkning af adfærd
+DF789	Anden mental retardering med påvirkning af adfærd UNS
+DF79	Mental retardering uden nærmere specificering
+DF790	Mental retardering UNS med ringe påvirkning af adfærd
+DF791	Mental retardering UNS med væsentlig påvirkning af adfærd
+DF798	Mental retardering UNS med anden påvirkning af adfærd
+DF799	Mental retardering UNS
+	Psykiske udviklingsforstyrrelser [DF80-DF89]
+DF80	Specifikke udviklingsforstyrrelser af tale og sprog
+DF800	Specifik sprogartikulationsforstyrrelse
+DF801	Ekspressiv dysfasi
+DF802	Impressiv dysfasi
+DF803	Epileptisk afasi
+DF808	Anden udviklingsforstyrrelse af tale eller sprog
+DF809	Udviklingsforstyrrelse af tale og sprog UNS
+DF809A	Verbal dyspraksi
+DF81	Specifikke udviklingsforstyrrelser af skolefærdigheder
+DF810	Specifik læseforstyrrelse
+DF811	Specifik staveforstyrrelse
+DF812	Specifik regneforstyrrelse
+DF813	Blandet udviklingsforstyrrelse af skolefærdigheder
+DF818	Anden udviklingsforstyrrelse af skolefærdigheder
+DF819	Udviklingsforstyrrelse af skolefærdigheder UNS
+DF82	Specifikke udviklingsforstyrrelser af motoriske færdigheder
+DF829	Specifik udviklingsforstyrrelse af motoriske færdigheder
+DF829A	Oral dyspraksi
+DF83	Blandede udviklingsforstyrrelser af specifikke færdigheder
+DF839	Blandet udviklingsforstyrrelse af specifikke færdigheder
+DF84	Gennemgribende mentale udviklingsforstyrrelser
+DF840	Infantil autisme
+DF841	Atypisk autisme
+DF8410	Autisme atypisk med hensyn til begyndelsesalder
+DF8411	Autisme atypisk med hensyn til symptomatologi
+DF8412	Autisme atypisk med hensyn til både begyndelsesalder og symptomatologi
+DF842	Retts syndrom
+DF843	Anden disintegrativ forstyrrelse i barndommen
+DF844	Hyperaktivitetsforstyrrelse med mental retardering og bevægelsesstereotypier
+DF845	Aspergers syndrom
+DF848	Anden gennemgribende mental udviklingsforstyrrelse
+DF849	Gennemgribende mental udviklingsforstyrrelse UNS
+DF88	Andre psykiske udviklingsforstyrrelser
+DF889	Psykisk udviklingsforstyrrelse IKA
+DF89	Psykiske udviklingsforstyrrelser uden nærmere specificering
+DF899	Psykisk udviklingsforstyrrelse UNS
+	Adfærds- og følelsesmæssige forstyrrelser sædvanligvis opstået i barndom eller adolescens [DF90-DF98]
+DF90	Hyperkinetiske forstyrrelser
+DF900	Forstyrrelse af aktivitet og opmærksomhed
+DF901	Hyperkinetisk adfærdsforstyrrelse
+DF908	Anden hyperkinetisk forstyrrelse
+DF909	Hyperkinetisk forstyrrelse UNS
+DF91	Adfærdsforstyrrelser
+DF910	Adfærdsforstyrrelse begrænset til familien
+DF911	Usocialiseret adfærdsforstyrrelse
+DF912	Socialiseret adfærdsforstyrrelse
+DF913	Oppositionel adfærdsforstyrrelse
+DF918	Anden adfærdsforstyrrelse
+DF919	Adfærdsforstyrrelse UNS
+DF92	Blandede adfærds- og følelsesmæssige forstyrrelser
+DF920	Depressiv adfærdsforstyrrelse
+DF928	Andre blandede adfærds- og følelsesmæssig forstyrrelser
+DF929	Blandet adfærds- og følelsesmæssig forstyrrelse UNS
+DF93	Emotionelle forstyrrelser opstået i barndommen
+DF930	Abnorm separationsangst i barndom
+DF931	Fobisk angsttilstand i barndom
+DF932	Socialangsttilstand i barndom
+DF933	Overdreven søskendejalousi
+DF938	Anden emotionel forstyrrelse i barndom
+DF9380	Generel angsttilstand i barndommen
+DF939	Emotionel forstyrrelse i barndom UNS
+DF94	Sociale funktionsforstyrrelser i barndom og adolescens
+DF940	Elektiv mutisme
+DF941	Reaktiv tilknytningsforstyrrelse i barndom
+DF942	Uselektiv, uhæmmet tilknytnings- eller kontaktform
+DF948	Anden social funktionsforstyrrelse
+DF949	Social funktionsforstyrrelse UNS
+DF95	Tics
+DF950	Forbigående tic
+DF951	Kroniske motoriske eller vokale tics
+DF952	Kombinerede vokale og multiple motoriske tics
+DF958	Anden tic-lidelse
+DF959	Tics UNS
+DF98	Andre adfærdsmæssige og emotionelle forstyrrelser opstået i barndom eller adolescens
+DF980	Ikke-organisk enuresis
+DF9800	Ikke-organisk enuresis alene om natten
+DF9801	Ikke-organisk enuresis alene om dagen
+DF9802	Ikke-organisk enuresis både nat og dag
+DF981	Ikke-organisk encoprese
+DF9810	Ikke-organisk encoprese med manglende sfinkterkontrol
+DF9811	Ikke-organisk encoprese med normal sfinkterkontrol og fæces
+DF9812	Ikke-organisk encoprese med flydende fæces
+DF982	Spiseforstyrrelse i barndommen
+DF983	Pica i barndommen
+DF984	Bevægelsesstereotypier
+DF9840	Ikke-selvskadende bevægelsesstereotypier
+DF9841	Selvskadende bevægelsesstereotypier
+DF9842	Blandede bevægelsesstereotypier
+DF985	Stammen
+DF986	Støden
+DF988	Anden adfærdsmæssig og emotionel forstyrrelse opstået i barndom eller adolescens
+DF988A	Onychophagia
+DF988B	Onychotillomania
+DF988C	Opmærksomhedsforstyrrelse uden hyperaktivitet
+DF989	Adfærdsmæssig eller emotionel forstyrrelse i barndom eller adolescens UNS
+	Ikke nærmere specificerede psykiske lidelser [DF99-DF99]
+DF99	Psykiske lidelser eller forstyrrelser ikke nærmere specificeret
+DF999	Psykisk lidelse eller forstyrrelse UNS
